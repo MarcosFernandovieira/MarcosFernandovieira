@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MarcosFernandovieira        
-- 👀 I’m interested in back-end, 
+- 👋 Hi, I’m @Marcos vieira        
+- 👀 I’m interested in Front-end 
 - 🌱 I’m currently learning-  Html,Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
