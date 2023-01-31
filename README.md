@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarcosFernandovieira
+- 👋 Hi, I’m @MarcosFernandovieira        
 - 👀 I’m interested in back-end, 
-- 🌱 I’m currently learning-  Python
+- 🌱 I’m currently learning-  Html,Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
