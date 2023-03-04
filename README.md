@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcos vieira        
-- 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning-  Html,Css
+- 👀 I’m interested in Front-end , Back - end
+- 🌱 I’m currently learning-  Html,Css , Js/ C# , SQL
 <div align="center">
   <a href="https://github.com/MarcosFernandovieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFernandovieira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
